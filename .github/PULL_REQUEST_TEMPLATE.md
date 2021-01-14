@@ -1,0 +1,2 @@
+- [ ] The code compiles
+- [ ] The code honors the acceptance criteria of the story
