@@ -1,1 +1,1 @@
-# github-pull-request-template
+# Test Git hub template on default branch
